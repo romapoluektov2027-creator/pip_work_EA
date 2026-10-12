@@ -1,1 +1,0 @@
-print('my mom is fat')
